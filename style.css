@@ -11,12 +11,12 @@ body{
 
 .card{
     width: 90%;
-    max-width: 470px;
-    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    max-width: 450px;
+    background-image: linear-gradient(to right, #2614ce, #302b63, #24243e);
     color:greenyellow;
     margin: 100px auto 0;
     border-radius: 60px;
-    padding: 40px 35px;
+    padding: 50px 40px;
     text-align: center;
 }
 
@@ -29,8 +29,8 @@ body{
 .search input{
     border: 0;
     outline: 0;
-    background: white;
-    color: black;
+    background: rgb(199, 189, 189);
+    color: rgb(41, 36, 36);
     padding: 10px 25px;
     height: 60px;
     border-radius: 30px;
